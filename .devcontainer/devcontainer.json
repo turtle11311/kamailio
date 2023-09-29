@@ -24,7 +24,8 @@
       "settings": {},
       "extensions": [
         "ms-vscode.cpptools-extension-pack",
-        "xaver.clang-format"
+        "xaver.clang-format",
+        "ms-vscode.makefile-tools"
       ]
     }
   },
